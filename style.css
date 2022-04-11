@@ -1,0 +1,39 @@
+.body{
+
+    background-image: url("fondocontacto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    top: 0%;
+    bottom: 0%;
+    right: 0%;
+    left: 0%;
+}
+
+.letra{
+
+    font-weight: bold;
+}
+
+.planes{
+
+    color: brown;
+    font-style: italic;
+    text-shadow: 4px 4px 0px gray;
+    padding: 5px;
+}
+
+.quotes{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulohist{
+
+color: darkgoldenrod;
+font-style: italic;
+text-shadow: 2px 2px 0px black;
+text-align: center;
+padding: 5px;
+
+}
